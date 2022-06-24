@@ -1,4 +1,4 @@
-![Frame 12](https://user-images.githubusercontent.com/62384663/172043046-14c6fcd2-6e18-4bc3-9cd5-9bb8c3b54735.png)
+<!-- ![Frame 12](https://user-images.githubusercontent.com/62384663/172043046-14c6fcd2-6e18-4bc3-9cd5-9bb8c3b54735.png) -->
 <!-- ### Hi there 👋 -->
 
 <!--
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png![Frame 3 (2)](https://user-images.githubusercontent.com/62384663/172042998-99493706-df7c-4093-b6c6-a51caa049cb6.png)
+<!-- 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png![Frame 3 (2)](https://user-images.githubusercontent.com/62384663/172042998-99493706-df7c-4093-b6c6-a51caa049cb6.png) -->
 " /></a></p>
 
 <br />
