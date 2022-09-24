@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate FrontEnd developer from Sumenep java
 
 **About me**
+orang yang salalu ingin belajar hal baru
